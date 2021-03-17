@@ -51,10 +51,6 @@
     "react": "global:React",
     "react-dom": "global:ReactDOM"
   },
-  "peerDependencies": {
-    "react": ">=16.0.0",
-    "react-dom": ">=16.0.0"
-  },
   "dependencies": {
     "prop-types": "^15.7.2",
     "uuid": "^7.0.3"
